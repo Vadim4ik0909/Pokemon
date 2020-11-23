@@ -18,7 +18,7 @@ const pikachu = {
 const charmander = {
   baseHP: 100,
   realHP: 100,
-  name: 'Чармандер',
+  name: 'Пачирису',
   textHP: getB('health-enemy'),
   barHP: getB('progressbar-enemy'),
   container: document.getElementsByClassName('enemy')[0]
